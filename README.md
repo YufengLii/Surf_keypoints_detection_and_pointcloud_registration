@@ -1,4 +1,5 @@
-Surf_keypoints_detection_and_pointcloud_registration
+# Surf_keypoints_detection_and_pointcloud_registration
+使用SURF特征对两帧RGBD数据进行配准
 
 ### 依赖项
 - Opencv with contrib
